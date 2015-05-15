@@ -1,0 +1,9 @@
+include LICENSE README.md
+include bin/photocollage
+recursive-include photocollage *.py
+include data/photocollage.desktop
+include data/photocollage.appdata.xml
+recursive-include data/icons/hicolor *
+include po/POTFILES.in
+recursive-include po *.po
+include setup.py

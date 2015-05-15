@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+ <id type="desktop">photocollage.desktop</id>
+ <metadata_license>CC-BY-3.0</metadata_license>
+ <project_license>GPL-2.0+</project_license>
+ <name>PhotoCollage</name>
+ <summary>Graphical tool to make photo collage posters</summary>
+ <summary xml:lang="de">Grafisches Werkzeug zum erstellen von Foto-Collagen Poster</summary>
+ <summary xml:lang="fr">Outil graphique pour fabriquer des posters en collant plusieurs photos</summary>
+ <description>
+  <p>
+   PhotoCollage allows you to create photo collage posters. It assembles the
+   input photographs it is given to generate a big poster. Photos are
+   automatically arranged to fill the whole poster, then you can change the
+   final layout, dimensions, border or swap photos in the generated grid.
+   Eventually the final poster image can we saved in any size.
+  </p>
+  <p>
+   The algorithm generates random layouts that place photos while taking
+   advantage of all free space. It tries to fill all space while keeping each
+   photo as large as possible.
+  </p>
+  <p>
+   PhotoCollage does more or less the same as many commercial websites do, but
+   for free and with open-source code.
+  </p>
+  <p xml:lang="de">
+   PhotoCollage erlaubt Ihnen das erstellen von Foto-Collage Postern. Es
+   generiert eine Zusammenstellung der Quell-Fotos zum erstellen eines großen
+   Posters. Die Fotos werden automatisch arrangiert um das ganze Poster zu
+   füllen, dannach kannst du die endgültige Anordnung noch ändern, Abmessungen,
+   Rahmen oder tausche die Fotos in dem generierten Raster. Anschließlich kann
+   das fertige Poster-Bild in beliebiger Größe gespeichert werden.
+  </p>
+  <p xml:lang="de">
+   Das Rechenverfahren generiert verschiedene Entwürfe welches Fotos palziert
+   mit dem Vorteil den ganzen freien Platz zu nutzen. Es versucht den ganzen
+   Platz auzufüllen und dabei jedes Foto so groß wie möglich darzustellen.
+  </p>
+  <p xml:lang="de">
+   PhotoCollage tut mehr oder weniger das selbe was viele kommerzielle
+   Webseiten tun, ist aber frei und kommt mit Open-Source Quellcode.
+  </p>
+  <p xml:lang="fr">
+   PhotoCollage permet de créer des posters de photo-collages. Il assemble les
+   photos qu'on lui donne pour générer un grand poster. Les photos sont
+   automatiquement arrangées pour remplir le poster entièrement ; vous pouvez
+   ensuite changer la structure finale, les dimensions, les bordures ou
+   intervertir des photos dans le maillage généré. Finalement le poster final
+   peut être sauvegardé en n'importe quelle résolution.
+  </p>
+  <p xml:lang="fr">
+   L'algorithme place les photos dans un maillage généré aléatoirement, en
+   remplissant l'espace libre. Il essaie de ne laisser aucun trou, tout en
+   gardant chaque photo aussi grande que possible.
+  </p>
+  <p xml:lang="fr">
+   PhotoCollage fait plus ou moins ce que beaucoup de sites web commerciaux
+   font, mais gratuitement et avec du code open-source.
+  </p>
+ </description>
+ <screenshots>
+  <screenshot type="default" width="800" height="450">
+   https://github.com/adrienverge/PhotoCollage/raw/v1.2.0/screenshots/photocollage-1.2-preview.png
+  </screenshot>
+ </screenshots>
+ <url type="homepage">https://github.com/adrienverge/PhotoCollage</url>
+ <updatecontact>adrienverge_at_gmail.com</updatecontact>
+</application>
