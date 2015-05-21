@@ -2,8 +2,7 @@
 # $FreeBSD: head/cad/sweethome3d/Makefile 367888 2014-09-10 20:50:31Z gerald $
 
 PORTNAME=	sweethome3d
-PORTVERSION=	4.4
-PORTREVISION=	1
+PORTVERSION=	4.6
 CATEGORIES=	cad java
 MASTER_SITES=	SF/${PORTNAME}/SweetHome3D-source/${DISTNAME}/
 DISTNAME=	SweetHome3D-${PORTVERSION}-src
