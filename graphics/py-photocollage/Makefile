@@ -2,7 +2,7 @@
 # $FreeBSD$
 
 PORTNAME=	photocollage
-PORTVERSION=	1.3.0.a.20150514
+PORTVERSION=	1.3.0.20150514
 CATEGORIES=	graphics python
 
 MAINTAINER=	matthias@petermann-it.de
